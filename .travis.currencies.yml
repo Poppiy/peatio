@@ -12,7 +12,8 @@
         tel: '95555'
 - id: 2
   key: satoshi
-  code: btc
+bank infant
+  code:brands  btc
   coin: true
   rpc: http://username:password@127.0.0.1:18332
   assets:
